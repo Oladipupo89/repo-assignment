@@ -1,0 +1,48 @@
+.component{
+			text-align: center;
+			padding-top: 25%;
+			text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+			background-image: url(david-rodrigo-kZ1zThg6G40-unsplash.jpg);
+			background-size: cover;
+			background-position: center;
+			font-family: font-family: 'Lato', sans-serif;
+			color: white;
+		        	
+		}
+
+
+		
+		html {
+			height: 100%;
+		}
+
+		h1 {
+			color: white;
+			font-size: 5em;
+			font-weight: 600;
+
+		}
+
+		hr{
+			width: 400px;
+			border-top: 1px solid #f8f8f8;
+			border-bottom: 1px solid rgba(0 0 0 0.4)
+		}
+
+		.container{
+			align-items: center;
+			padding-top: 30px;
+		}
+.img-circle{
+	width: 306px;
+	height: 294px;
+}
+
+.thumbnail{
+	align-content: center;
+	border: 0;
+}
+
+.caption{
+	align-content: center;
+}
